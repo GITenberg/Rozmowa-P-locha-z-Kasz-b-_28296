@@ -1,0 +1,30 @@
+_repo: Rozmowa-P-locha-z-Kasz-b-_28296
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ceynowa, Florian Stanisław
+    alias: Ceynowa, Florian Stanislaw
+    birthdate: 1817
+    deathdate: 1881
+    gutenberg_agent_id: '33247'
+    url: http://www.gutenberg.org/2009/agents/33247
+    wikipedia: http://csb.wikipedia.org/wiki/Florian_Cen%C3%B4wa
+description: ''
+gutenberg_issued: '2009-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28296'
+language:
+- csb
+- pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Kashubian literature -- 19th century'
+title: Rozmowa Pòlocha z Kaszëbą
+url: http://www.gutenberg.org/ebooks/28296
